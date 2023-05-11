@@ -1,0 +1,95 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Playfair+Display:ital@1&display=swap');
+
+* {
+    margin: 0 auto;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+#stufff{
+
+    position: absolute;
+    left: 30%;
+    top: 25%;
+    color: #F7B32B;
+    font-size: 40px;
+    font-family:'Braah One', sans-serif ;
+    
+    
+}
+
+#stuff {
+
+    position: absolute;
+    top:35%;
+    left: 25%;
+    text-align: center;
+    color: rgb(204, 200, 200);
+    font-size: 17px;
+    font-family: 'Nanum Myeongjo', serif;
+}
+
+#emm {
+
+    position: absolute;
+    left: 35%;
+    top: 50%;
+    color: #F7B32B;
+    font-size: 40px;
+    font-family:'Braah One', sans-serif ;
+}
+
+#s {
+
+    position: absolute;
+    left: 46.5%;
+    top: 20%;
+    color: #F7B32B;
+    font-size: 20px;
+    font-family:'Playfair Display', serif;
+}
+
+#sadia {
+    position: absolute;
+    width: 200px;
+    top: 64.3%;
+    left: 59%;
+}
+
+#friboi {
+    position: absolute;
+    width: 200px;
+    top: 65%;
+    left: 42.5%;
+}
+
+#hellmess {
+    position: absolute;
+    width: 200px;
+    top: 65%;
+    left: 25%;
+}
+
+#r{
+    position: absolute;
+    width: 50px;
+    top: 64.3%;
+    left: 62%;
+
+}
+
+#o{
+    position: absolute;
+    width: 50px;
+    top: 65%;
+    left: 48%;
+}
+
+
+#c{
+
+    position: absolute;
+    width: 50px;
+    top: 68%;
+    left: 30%;
+}
