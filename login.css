@@ -21,7 +21,7 @@ body {
     min-height: 100vh;
     display: flex;
     justify-content: center;
-    background-color:#F4A259    ;
+    background-color: rgb(29, 11, 1)    ;
     
 }
 
@@ -112,6 +112,7 @@ body {
 .box form .links a:hover
 {
     color: black;
+    
 }
 
 .box form .links a
@@ -144,6 +145,7 @@ body {
 {
     box-shadow: inset 250px 0 0 0  rgb(179, 170, 57);
     color: rgb(8, 8, 8);
+    
 }
 
 
@@ -152,9 +154,10 @@ body {
     padding: 0px;
     color: #cf9725;
     position: absolute;
-    top: 10px;
-    left: 35px;
+    top: 15%;
+    left: 43.5%;
     font-family: 'Braah One', sans-serif;
+    font-size: 45px;
     text-decoration: none;
     display: inline;
     list-style-type: none;
@@ -179,5 +182,12 @@ body {
 
 }
 
+.box form .desenho
+{
+    position: absolute;
+    top: 13px;
+    left: 85%;
+    width: 13%;
 
+}
 
